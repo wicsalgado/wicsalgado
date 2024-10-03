@@ -13,6 +13,6 @@ Meu nome é _Wictória_. Atualmente sou graduanda em **Engenharia de Software** 
 ##
 
 <div> 
-  <a href = "wicrobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wicrobs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
