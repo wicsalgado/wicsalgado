@@ -1,6 +1,6 @@
 ## Hi, folks! 👋
 
-Meu nome é _Wictória_. Atualmente sou graduanda em **Engenharia de Software** cursando o _2º período_. 💻 ^_^ (pt-BR/**en-US**).
+Meu nome é _Wictória_. Atualmente sou graduanda em **Engenharia de Software** cursando o _3º período_. 💻 ^_^ (pt-BR/**en-US**).
 
 <div style="display: inline_block"><br>
 <img align="center" alt="wic-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
